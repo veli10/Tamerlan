@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+}
+
+.modal .modal-body{
+    display: flex;
+    gap: 30px;
+}
+
+
+.modal form{
+width: 50%;
+}

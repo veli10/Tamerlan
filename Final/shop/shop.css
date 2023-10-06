@@ -1,0 +1,9 @@
+.d-flex{
+    display: grid !important;
+    grid-template-columns: 2fr 8fr;
+}
+
+.tab-pane.active{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
